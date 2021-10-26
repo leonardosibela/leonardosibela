@@ -1,5 +1,5 @@
 ### Olá, sou Leonardo Sibela. Tudo bem com você?
-:computer: Desenvolver Android Nativo Sênior (Kotlin/Java) <br>
+:computer: Desenvolver Android Nativo (Kotlin/Java) <br>
 :computer: Desenvolvedor Backend Entusiasta (Laravel/Php) <br>
 :computer: Desenvolvedor Desktop Entusiasta (Laravel/Php) <br>
 :computer: Desenvolvedor script (Linux/Bash) <br>
