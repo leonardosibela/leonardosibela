@@ -34,3 +34,16 @@
 [<a href="https://stackoverflow.com/users/3590155/leonardo-de-oliveira-sibela"><img src="https://stackoverflow.com/users/flair/3590155.png?theme=dark" width="208" height="58" alt="Profile for Leonardo de Oliveira Sibela at Stack Overflow, Q&amp;A for professional and enthusiast programmer" title="profile for Leonardo de Oliveira Sibela at Stack Overflow, Q&amp;A for professional and enthusiast programmer"></a>](https://stackoverflow.com/users/2857200/RealityExpander)
  
  ![Quantidade de visitantes](https://komarev.com/ghpvc/?username=leonardosibela)
+
+ ### Yes, I have badges! :)
+
+[<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/mobile.svg"/>]()
+[<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/android_studio.svg"/>]()
+
+![Android](https://img.shields.io/badge/Android%20-green.svg?&style=for-the-badge&logo=Android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
+
