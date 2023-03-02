@@ -1,4 +1,4 @@
-### :brazil: Hello, I'm Leonardo de Oliveira Sibela. a Brazilian Android Developer. How are you?
+### ✌️ Hello, I'm Leonardo de Oliveira Sibela. a Brazilian Android Developer. How are you?
 :computer: Native Android Developer (Kotlin/Java) <br>
 :computer: Enthusiastic Backend Developer (Laravel/Php) <br>
  <br>
