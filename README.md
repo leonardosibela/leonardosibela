@@ -36,7 +36,7 @@
  ![Quantidade de visitantes](https://komarev.com/ghpvc/?username=leonardosibela)
  
 ### Support me: 
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/leonardosibela"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/leonardosibela" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/leonardosibela"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/leonardosibela" /></a><a href="https://ko-fi.com/https://ko-fi.com/leonardosibela"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/leonardosibela" /></a></p><br><br>
 
  ### Yes, I have badges! :)
 
