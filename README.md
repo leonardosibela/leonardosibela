@@ -39,11 +39,13 @@
 
 <br>
 <h2> 😎 StackOverflow reputation:</h2> 
-[<a href="https://stackoverflow.com/users/3590155/leonardo-de-oliveira-sibela"><img src="https://stackoverflow.com/users/flair/3590155.png?theme=dark" width="208" height="58" alt="Profile for Leonardo de Oliveira Sibela at Stack Overflow, Q&amp;A for professional and enthusiast programmer" title="profile for Leonardo de Oliveira Sibela at Stack Overflow, Q&amp;A for professional and enthusiast programmer"></a>](https://stackoverflow.com/users/2857200/RealityExpander)
- 
- ![Quantidade de visitantes](https://komarev.com/ghpvc/?username=leonardosibela)
+<a href="https://stackoverflow.com/users/3590155/leonardo-de-oliveira-sibela"><img src="https://stackoverflow.com/users/flair/3590155.png?theme=dark" width="208" height="58" alt="Profile for Leonardo de Oliveira Sibela at Stack Overflow, Q&amp;A for professional and enthusiast programmer" title="profile for Leonardo de Oliveira Sibela at Stack Overflow, Q&amp;A for professional and enthusiast programmer"></a>
  
 <br>
+<br>
+
+ ![Quantidade de visitantes](https://komarev.com/ghpvc/?username=leonardosibela)
+ 
 <h2>💚 Support me:</h2> 
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/leonardosibela"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/leonardosibela" /></a><a href="https://ko-fi.com/https://ko-fi.com/leonardosibela"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/leonardosibela" /></a></p><br><br>
 
