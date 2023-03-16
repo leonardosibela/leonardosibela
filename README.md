@@ -1,4 +1,4 @@
-### ✌️ Hello, I'm Leonardo de Oliveira Sibela, a Brazilian Android Developer. How are you?
+<h2>✌️ Hello, I'm Leonardo de Oliveira Sibela, a Brazilian Android Developer. How are you?</h2>
 :computer: Native Android Developer (Kotlin/Java) <br>
 :computer: Enthusiastic Backend Developer (Laravel/Php) <br>
  <br>
@@ -10,7 +10,8 @@
 ⚡ Fun fact: Knock, knock... <br>
  <br>
  
-### Interesting Android Native projects I have built:
+ 
+<h2> 💻 Interesting Android Native projects I have built:</h2>
 
 #### Larger Project
 - [Smart Habits](https://github.com/leonardosibela/smart-habits) - An open source project to keep track of your habits in a smart way :)
@@ -23,22 +24,31 @@
 - [Image Seach App](https://github.com/leonardosibela/image-search-app) - An image search app using the Unsplash API.
 
 <br>
+<h2>🏆 Github Profile Trophy</h2>
+<a href="https://github.com/leonardosibela/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=leonardosibela&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
+<br>
+<br>
 <div>
   <a href="https://github.com/leonardosibela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardosibela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosibela&layout=compact&langs_count=7&theme=dracula&hide=html"/>
 </div>
-<br>
 
-### StackOverflow reputation: 
+<br>
+<h2> 😎 StackOverflow reputation:</h2> 
 [<a href="https://stackoverflow.com/users/3590155/leonardo-de-oliveira-sibela"><img src="https://stackoverflow.com/users/flair/3590155.png?theme=dark" width="208" height="58" alt="Profile for Leonardo de Oliveira Sibela at Stack Overflow, Q&amp;A for professional and enthusiast programmer" title="profile for Leonardo de Oliveira Sibela at Stack Overflow, Q&amp;A for professional and enthusiast programmer"></a>](https://stackoverflow.com/users/2857200/RealityExpander)
  
  ![Quantidade de visitantes](https://komarev.com/ghpvc/?username=leonardosibela)
  
-### Support me: 
+<br>
+<h2>💚 Support me:</h2> 
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/leonardosibela"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/leonardosibela" /></a><a href="https://ko-fi.com/https://ko-fi.com/leonardosibela"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/leonardosibela" /></a></p><br><br>
 
- ### Yes, I have badges! :)
+<br>
+<h2> 👍 Yes, I have badges!:</h2> 
 
 [<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/mobile.svg"/>]()
 [<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/android_studio.svg"/>]()
