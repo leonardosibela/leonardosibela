@@ -5,7 +5,7 @@
 🔭 Currently working with Android, Kotlin, Clean Arch, MVVM, Coroutines, JUnit, MockK, Espresso and Koin <br>
 📚 Currenlty studing Jetpack Compose and Architetural Patterns on Android <br>
 💬 Ask me about Android, Scrum, Unit Testing, Testing with Espresso and Dependency Injection. <br>
-📫 You can find me at [My LinkedIn](https://www.linkedin.com/in/leonardosibela/) <br>
+📫 You can find me at [My LinkedIn](http://linkedin.com/in/leonardosibela) <br>
 😄 Pronouns: (He/Him/His) <br>
 ⚡ Fun fact: Knock, knock... <br>
  <br>
