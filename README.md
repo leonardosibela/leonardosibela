@@ -28,15 +28,6 @@
 <a href="https://github.com/leonardosibela/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=leonardosibela&column=8&theme=gruvbox&no-frame=true"/>
 </a>
-
-<br>
-<br>
-<div>
-  <a href="https://github.com/leonardosibela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardosibela&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosibela&layout=compact&langs_count=7&theme=dracula&hide=html"/>
-</div>
-
 <br><br>
 
 <h2> 😎 StackOverflow reputation:</h2> 
